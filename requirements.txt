@@ -1,0 +1,12 @@
+transformers 
+accelerate 
+langchain 
+langchain-openai
+chromadb
+langchain-community
+tiktoken
+python-dotenv
+langchain_ollama
+streamlit
+streamlit_chat
+pypdf
